@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello!
+
+My name is Casey, a current electrical engineering major at Cooper Union! In my free time, I like to play video games and research new custom mechanical keyboard parts! Please comission me 🙏
 
 <!--
 **vitaminKC/vitaminKC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
